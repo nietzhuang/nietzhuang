@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=nietzhuang" alt="https://github.com/nietzhuang"/>
+<img src="https://komarev.com/ghpvc/?username=nietzhuang&label=VIEWS&style=flat&color=5F9EA0" alt="https://github.com/nietzhuang"/>
 </p>
 <h1 align="center">
   Welcome my friend 👋 !!
