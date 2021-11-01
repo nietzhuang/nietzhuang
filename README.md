@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="http://github.com/nietzhuang" target="_blank"><img alt="GitHub" src="http://img.shield.io/badge/-nietzhuang-FFFFFF?style=plastic&logo=GitHub&logoColor=white&labelColor=000000"></a>
+</p>
