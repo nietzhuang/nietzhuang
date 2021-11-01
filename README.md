@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="http://github.com/nietzhuang" target="_blank"><img alt="GitHub" src="http://img.shields.io/badge/-nietzhuang-FFFFFF?style=plastic&logo=GitHub&logoColor=white&labelColor=000000"></a>
+    <a href="nietzhuang: rock19910423@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EEEEEE?style=plastic&logo=Gmail&logoColor=white&labelColor=BB001B"></a>
+    <a href="https://www.linkedin.com/in/jyun-siou-huang-9b0812169/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=LinkedIn&logoColor=white&labelColor=0077B5"></a>
+    <a href="https://www.facebook.com/rock19910423" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-3B5998?style=plastic&logo=Facebook&logoColor=white&labelColor=3B5998"></a>
+
+
 </p>
