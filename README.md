@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<h1 align="center">
   ### Welcome here my friend 👋 !!
-</p>
+</h1>
 
 - I'm Nietz, I research DNN accelerator, you can see my interest papers ([here](https://github.com/nietzhuang/Literatures))
 - Currrently, working at IC design company but I'm always looking for a strong advisor to complete the PhD degree.
