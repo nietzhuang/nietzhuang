@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!<p align="center">
 Welcome here my friend 👋\ 
 I'm Nietz, I research DNN accelerator, you can see my interest papers ([here](https://github.com/nietzhuang/Literatures))\
 Currrently, work at IC design company but I always looking for a strong advisor to complete the PhD degree.\
 In addition, I'm also interested in any research topics related to AI/ML, so I created a discord server __AI/ML Community__. Feel free to join us ! ([here](https://discord.gg/BCqr4aMqMJ))\
   \
 Besides, I play the violin and enjoy Classics and Jazz in the leasure time. If you wish, follow my social medias and make friend.\
-<\p>
+<!<\p>
 
 
 
