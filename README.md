@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  Welcome here my friend 👋 !!
+  Welcome my friend 👋 !!
 </h1>
 
 - I'm Nietz, I research DNN accelerator, you can see my interest papers ([here](https://github.com/nietzhuang/Literatures))
@@ -33,7 +33,11 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/rock19910423" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-3B5998?style=plastic&logo=Facebook&logoColor=white&labelColor=3B5998"></a>
     <a href="https://www.instagram.com/nietz.huang/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-BC2A8D?style=plastic&logo=Instagram&logoColor=white&labelColor=BC2A8D"></a>
 </p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--
 <p align="center">
     <a href="http://github.com/nietzhuang" target="_blank"><img alt="nietzhuang" src="https://img.shields.io/github/followers/nietzhuang?style=social"></a>
