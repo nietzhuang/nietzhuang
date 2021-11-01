@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="right"
+<img src="https://komarev.com/ghpvc/?username=nietzhuang" alt="https://github.com/nietzhuang"/>
+</p>
 <h1 align="center">
   Welcome my friend 👋 !!
 </h1>
@@ -37,8 +40,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nietzhuang" alt="https://github.com/nietzhuang"/>
-![](https://komarev.com/ghpvc/?username=nietzhuang)
+
 
 <!--
 <p align="center">
