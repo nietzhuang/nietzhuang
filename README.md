@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right"
-<img src="https://komarev.com/ghpvc/?username=nietzhuang" alt="https://github.com/nietzhuang"/>
-</p>
+
 <h1 align="center">
   Welcome my friend 👋 !!
 </h1>
+<p align="right"
+<img src="https://komarev.com/ghpvc/?username=nietzhuang" alt="https://github.com/nietzhuang"/>
+</p>
 
 - I'm Nietz, I research DNN accelerator, you can see my interest papers ([here](https://github.com/nietzhuang/Literatures))
 - Currrently, working at IC design company but I'm always looking for a strong advisor to complete the PhD degree.
