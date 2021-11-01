@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+[![My Github Stats]https://github-readme-stats.vercel.app/api?username=nietzhuang&show_icons=true&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=262927]
+(https://github.com/nietzhuang)
+
 
 
 <!--
