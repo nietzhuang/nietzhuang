@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=nietzhuang&label=VIEWS&style=flat&color=5F9EA0" alt="https://github.com/nietzhuang"/>
 </p>
 <h1 align="center">
-  Welcome my friend 👋 !!
+  Welcome my friends 👋 !!
 </h1>
 
 
@@ -50,16 +50,9 @@ Here are some ideas to get you started:
 <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nietzhuang)](https://github.com/nietzhuang/github-readme-stats) -->
 <!--![Used Languages](https://raw.githubusercontent.com/nietzhuang/github-stats-transparent/output/generated/languages.svg)-->
 
-
-
-
-
 <!--
 <p align="center">
     <a href="http://github.com/nietzhuang" target="_blank"><img alt="nietzhuang" src="https://img.shields.io/github/followers/nietzhuang?style=social"></a>
     <a href="https://discord.com/channels/840827431832780820/840827431832780825" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/840827431832780820?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
 </p>
-
- ([link](https://discord.gg/BCqr4aMqMJ))
--->
 
