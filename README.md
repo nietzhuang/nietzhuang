@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=nietzhuang&show_icons=true&hide_border=true&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=0E111A)](https://github.com/nietzhuang)
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=nietzhuang&show_icons=true&hide_border=true&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=0E111B)](https://github.com/nietzhuang)
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzhuang&show_icons=true&hide_border=true&layout=compact&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=0E111A)](https://github.com/nietzhuang)
 
 
@@ -48,10 +49,3 @@ Here are some ideas to get you started:
 
 <!--[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nietzhuang)](https://github.com/nietzhuang/github-readme-stats) -->
 <!--![Used Languages](https://raw.githubusercontent.com/nietzhuang/github-stats-transparent/output/generated/languages.svg)-->
-
-<!--
-<p align="center">
-    <a href="http://github.com/nietzhuang" target="_blank"><img alt="nietzhuang" src="https://img.shields.io/github/followers/nietzhuang?style=social"></a>
-    <a href="https://discord.com/channels/840827431832780820/840827431832780825" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/840827431832780820?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
-</p>
-
