@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nietzhuang)](https://github.com/nietzhuang)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=nietzhuang)](https://github.com/nietzhuang)
 <!--[![My Github Stats](https://github-readme-stats.vercel.app/api?username=nietzhuang&show_icons=true&hide_border=true&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=0E111A)](https://github.com/nietzhuang)-->
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nietzhuang&show_icons=true&hide_border=true&layout=compact&title_color=F08080&icon_color=F1C40F&text_color=9f9f9f&bg_color=0E111A)](https://github.com/nietzhuang)
 
