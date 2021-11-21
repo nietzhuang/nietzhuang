@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-- I'm Nietz, I research DNN accelerator, you can see my interest papers ([here](https://github.com/nietzhuang/Literatures))
+- I'm Nietz, I research DNN accelerator, you can see my interested papers ([here](https://github.com/nietzhuang/Literatures))
 - Currrently, working at IC design company but I'm always looking for a strong advisor to complete the PhD degree.
 - In addition, I'm also interested in any research topics related to AI/ML, so I created a discord server *AI/ML Community*. Feel free to join us !
 <a href="https://discord.com/channels/840827431832780820/840827431832780825" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/840827431832780820?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
