@@ -35,33 +35,33 @@
 \coordinate (startCoord) at (0,0);
 \node [decision, text width=2cm] (start) at (startCoord) {\textbf{\small Daily Condition}};
 \coordinate (wakeCoord1) at (0, -3cm);
-\node[wakeSleep, text width=2cm] (wake1) at (wakeCoord1) {\textbf{\small 8:00~9:00 Wake Up}};
+\node[wakeSleep, text width=2cm] (wake1) at (wakeCoord1) {\textbf{\small 8:00\textasciitilde9:00 Wake Up}};
 \coordinate (workCoord1) at (0, -5cm);
-\node[work, text width=2cm] (work1) at (workCoord1) {\textbf{\small 9:30~12:00 Work}};
+\node[work, text width=2cm] (work1) at (workCoord1) {\textbf{\small 9:30\textasciitilde12:00 Work}};
 \coordinate (lazyCoord1) at (0,-8cm);
 \node [decision, text width=2cm] (lazy1) at (lazyCoord1) {\textbf{\small Lazy Day?}};
 \coordinate (breakCoord1) at (0, -11cm);
-\node[break, text width=2cm] (break1) at (breakCoord1) {\textbf{\small 12:00~13:30 Lunch Break}};
+\node[break, text width=2cm] (break1) at (breakCoord1) {\textbf{\small 12:00\textasciitilde13:30 Lunch Break}};
 \coordinate (workCoord2) at (0, -13cm);
-\node[work, text width=2cm] (work2) at (workCoord2) {\textbf{\small 13:30~17:00 Work}};
+\node[work, text width=2cm] (work2) at (workCoord2) {\textbf{\small 13:30\textasciitilde17:00 Work}};
 \coordinate (tiredCoord1) at (0,-16cm);
 \node [decision, text width=2cm] (tired1) at (tiredCoord1) {\textbf{\small Tired?}};
 \coordinate (breakCoord2) at (0, -19cm);
-\node[break, text width=2cm] (break2) at (breakCoord2) {\textbf{\small 17:00~18:00 Exercise/Break}};
+\node[break, text width=2cm] (break2) at (breakCoord2) {\textbf{\small 17:00\textasciitilde18:00 Exercise/Break}};
 \coordinate (workCoord2_2) at (4cm, -19cm);
-\node[work, text width=2cm] (work2_2) at (workCoord2_2) {\textbf{\small 17:00~18:00 Work}};
+\node[work, text width=2cm] (work2_2) at (workCoord2_2) {\textbf{\small 17:00\textasciitilde18:00 Work}};
 \coordinate (breakCoord3) at (0, -21cm);
-\node[break, text width=2cm] (break3) at (breakCoord3) {\textbf{\small 18:00~19:30 Dinner Break}};
+\node[break, text width=2cm] (break3) at (breakCoord3) {\textbf{\small 18:00\textasciitilde19:30 Dinner Break}};
 \coordinate (lazyCoord2) at (0,-24cm);
 \node [decision, text width=2cm] (lazy2) at (lazyCoord2) {\textbf{\small Lazy Day?}};
 \coordinate (workCoord3) at (0, -27cm);
-\node[work, text width=2cm] (work3) at (workCoord3) {\textbf{\small 19:30~22:00 Work}};
+\node[work, text width=2cm] (work3) at (workCoord3) {\textbf{\small 19:30\textasciitilde22:00 Work}};
 \coordinate (tiredCoord2) at (0,-30cm);
 \node [decision, text width=2cm] (tired2) at (tiredCoord2) {\textbf{\small Tired?}};
 \coordinate (read) at (4cm, -31.5cm);
-\node[work, text width=2cm] (read) at (read) {\textbf{\small 23:00~1:00 Reading}};
+\node[work, text width=2cm] (read) at (read) {\textbf{\small 23:00\textasciitilde1:00 Reading}};
 \coordinate (sleep) at (0, -33cm);
-\node[wakeSleep, text width=2cm] (sleep) at (sleep) {\textbf{\small 23:00~1:00 Sleep}};
+\node[wakeSleep, text width=2cm] (sleep) at (sleep) {\textbf{\small 23:00\textasciitilde1:00 Sleep}};
 % LaTex connectors of blocks - Common Day
 \draw [connector] (start)   --  node[anchor=north, right] {\small {Common Day}} (wake1);
 \draw [connector] (wake1)   --  (work1);
@@ -83,9 +83,9 @@
 
 % LaTex placement of blocks - Stayed up over night
 \coordinate ('wakeCoord1) at (-5cm, -3cm);
-\node[wakeSleep, text width=2cm] ('wake1) at ('wakeCoord1) {\textbf{\small 10:00~11:00 Wake Up}};
+\node[wakeSleep, text width=2cm] ('wake1) at ('wakeCoord1) {\textbf{\small 10:00\textasciitilde11:00 Wake Up}};
 \coordinate ('workCoord1) at (-5cm, -5cm);
-\node[work, text width=2cm] ('work1) at ('workCoord1) {\textbf{\small 11:00~12:30 Work}};
+\node[work, text width=2cm] ('work1) at ('workCoord1) {\textbf{\small 11:00\textasciitilde12:30 Work}};
 % LaTex connectors of blocks - Stayed up over night
 \draw [connector] (start)  -|  node[anchor=north, above] {\small{Stayed Up over Night}} ('wake1);
 \draw [connector] ('wake1) --  ('work1);
@@ -93,16 +93,16 @@
 
 % LaTex placement of blocks - Lazy Day
 \coordinate (_breakCoord1) at (8cm, -11cm);
-\node[break, text width=2cm] (_break1) at (_breakCoord1) {\textbf{\small 12:00~13:30 Lunch Break}};
+\node[break, text width=2cm] (_break1) at (_breakCoord1) {\textbf{\small 12:00\textasciitilde13:30 Lunch Break}};
 \coordinate (_workCoord2) at (8, -13cm);
-\node[work, text width=2cm] (_work2) at (_workCoord2) {\textbf{\small 14:30~16:30 Work}};
+\node[work, text width=2cm] (_work2) at (_workCoord2) {\textbf{\small 14:30\textasciitilde16:30 Work}};
 \coordinate (_playCoord1) at (8cm, -19cm);
-\node[break, text width=2cm] (_play1) at (_playCoord1) {\textbf{\small 16:30~18:00 Play/Go Outside}};
+\node[break, text width=2cm] (_play1) at (_playCoord1) {\textbf{\small 16:30\textasciitilde18:00 Play/Go Outside}};
 \coordinate (_node1) at (4cm, -21cm);
 \coordinate (_playCoord2) at (8cm, -24cm);
-\node [break, text width=3.5cm] (_play2) at (_playCoord2) {\textbf{\small 19:30~21:00 Play/Go Outside/Reading}};
+\node [break, text width=3.5cm] (_play2) at (_playCoord2) {\textbf{\small 19:30\textasciitilde21:00 Play/Go Outside/Reading}};
 \coordinate (_workCoord3) at (8cm, -27cm);
-\node[work, text width=2cm] (_work3) at (_workCoord3) {\textbf{\small 21:00~22:00 Work}};
+\node[work, text width=2cm] (_work3) at (_workCoord3) {\textbf{\small 21:00\textasciitilde22:00 Work}};
 \coordinate (_node2) at (4cm, -33cm);
 
 % LaTex connectors of blocks - Lazy Day
