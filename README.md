@@ -22,12 +22,10 @@ Here are some ideas to get you started:
 </h1>
 
 
-- I'm Nietz, I research DNN accelerator, you can see my interested papers ([here](https://github.com/nietzhuang/Literatures))
-- Currrently, working at IC design company but I'm always looking for a strong advisor to complete the PhD degree.
-- In addition, I'm also interested in any research topics related to AI/ML, so I created a discord server *AI/ML Community*. Feel free to join us !
-<a href="https://discord.gg/tbsWAPZqf9" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/840827431832780820?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
-  
-- Besides, I play the violin and enjoy Classics and Jazz in my leasure time. If you wish, follow my social medias and make friend.
+- I'm Jyun-Siou Huang (黃俊修), you can call me Nietz (I named it 'cause I'm really into existentialism).
+- I research Hardware accelerators on AI/ML field, which involve many, such as ASIC/FPGA hardware implementation, hardware modelling, workload scheduling, and etc. You can see my interested papers ([here](https://github.com/nietzhuang/Bibliography))
+- Currrently, I'm a PhD student at National Tsing Hua University, Taiwan. Welcome to contact me if you have the same research interests with me.  
+- Besides, I play the violin and enjoy Classics and Jazz in my leasure time. If you wish, follow my social medias and make friends.
 
 <p align="center">
     <a href="http://github.com/nietzhuang" target="_blank"><img alt="nietzhuang" src="https://img.shields.io/github/followers/nietzhuang?style=social"></a>
