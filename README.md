@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 </h1>
 
 
-- I'm Jyun-Siou Huang (黃俊修), you can call me Nietz (I named it 'cause I'm really into existentialism).
+- I'm Jyun-Siou Huang (黃俊修), you can call me Nietz (I named it 'cause I'm into existentialism).
 - I research Hardware accelerators on AI/ML field, which involve many, such as ASIC/FPGA hardware implementation, hardware modelling, workload scheduling, and etc. You can see my interested papers ([here](https://github.com/nietzhuang/Bibliography))
 - Currrently, I'm a PhD student at National Tsing Hua University, Taiwan. Welcome to contact me if you have the same research interests with me.  
-- Besides, I play the violin and enjoy Classics and Jazz in my leasure time. If you wish, follow my social medias and make friends.
+- Besides, I play the violin, enjoying Classics and Jazz in my leisure time. If you wish, follow my social media and make friends.
 
 <p align="center">
     <a href="http://github.com/nietzhuang" target="_blank"><img alt="nietzhuang" src="https://img.shields.io/github/followers/nietzhuang?style=social"></a>
